@@ -6,8 +6,8 @@ var carModels = [
     'Chevrolet Corvette',
     'BMW 3 Series',
     'Mercedes-Benz C-Class',
-    'Audi A4',
-    'Volkswagen Golf',
+    'Hyread',
+    'Gawe',
     'Tesla Model S',
     'Nissan Altima'
   ];
